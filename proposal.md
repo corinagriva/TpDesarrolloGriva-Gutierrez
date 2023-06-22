@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 49670 - Griva, Corina
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
